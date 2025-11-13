@@ -9,6 +9,8 @@ For an ML Engineer, understanding databases is crucial for accessing, storing, a
 #### A. Relational Databases & SQL
 This is the most important area. You must be proficient in writing SQL queries.
 
+> For concrete examples of these queries, see [SQL Query Examples](./SQL_Examples.md).
+
 - **Basic SQL Queries:**
   - `SELECT`: Retrieving data from tables.
   - `FROM`: Specifying the table.
